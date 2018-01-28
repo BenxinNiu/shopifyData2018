@@ -4,7 +4,7 @@ Written in scala with spark apis
 
 sample usage
 
-navigat to project foler in terminal 
+navigate to project foler in terminal 
 
 run 
 
