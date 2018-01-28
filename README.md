@@ -8,7 +8,7 @@ navigat to project foler in terminal
 
 run 
 
-sbt "run patht_o_file_1 patht_o_file_2 join_type condition"
+sbt "run path_to_file_1 path_to_file_2 join_type condition"
 
 e.g
 
